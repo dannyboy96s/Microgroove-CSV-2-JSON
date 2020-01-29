@@ -1,0 +1,78 @@
+[
+  {
+    "Date": "08/04/2018",
+    "Type": " By Batch #",
+    "Orders": [
+      {
+        "OrderDate": "08/04/2018",
+        "Code": "ONF002793300",
+        "Number": "080427bd1",
+        "Buyer": {
+          "Name": "Jea Nahy",
+          "Street": "4242 211st Place S.E.",
+          "Zip": "98017"
+        },
+        "Items": [
+          {
+            "Sku": "602527788265",
+            "Quantity": 2
+          },
+          {
+            "Sku": "602517642850",
+            "Quantity": 1
+          }
+        ],
+        "Timing": {
+          "Start": 3,
+          "Stop": 3,
+          "Gap": 0,
+          "Offset": 2,
+          "Pause": 0
+        }
+      }
+    ],
+    "Ender": {
+      "Process": 1,
+      "Paid": 2,
+      "Created": 9
+    }
+  },
+  {
+    "Date": "08/05/2018",
+    "Type": " By Batch 2#",
+    "Orders": [
+      {
+        "OrderDate": "08/05/2018",
+        "Code": "ONF7502791300",
+        "Number": "081217bd1",
+        "Buyer": {
+          "Name": "Brett Nagy",
+          "Street": "5825 221st Place S.E.",
+          "Zip": "98027"
+        },
+        "Items": [
+          {
+            "Sku": "602527755565",
+            "Quantity": 2
+          },
+          {
+            "Sku": "602517645650",
+            "Quantity": 1
+          }
+        ],
+        "Timing": {
+          "Start": 3,
+          "Stop": 4,
+          "Gap": 1,
+          "Offset": 2,
+          "Pause": 0
+        }
+      }
+    ],
+    "Ender": {
+      "Process": 1,
+      "Paid": 3,
+      "Created": 9
+    }
+  }
+]
